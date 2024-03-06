@@ -1,0 +1,20 @@
+{
+      "cars":
+      [
+        {
+          "name":"Nexia 2",
+          "brand":"chevrolet",
+          "price": "6000 $"
+        },
+        {
+          "name": "cobalt",
+          "brand": "chevrolet",
+          "price": "12000 $"
+        },
+        {
+          "name": "gentra",
+          "brand": "chevrolet",
+          "price": "16000 $"
+        }
+        ]
+}
